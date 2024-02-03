@@ -10,7 +10,7 @@
 
 效果图
 
-[![photo]([https://github.com/boji6681/Clash-for-Windows_Chinese/assets/77391690/cbc8698c-7e3c-4ff2-b2ed-4bccae1e6251?raw=true)](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/](https://github.com/boji6681/Clash-for-Windows_Chinese/assets/157291263/276c1fc7-05d4-4041-956d-46da764db05c))
+[[![photo]([https://github.com/boji6681/Clash-for-Windows_Chinese/assets/77391690/cbc8698c-7e3c-4ff2-b2ed-4bccae1e6251?raw=true)](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/](https://github.com/boji6681/Clash-for-Windows_Chinese/assets/157291263/276c1fc7-05d4-4041-956d-46da764db05c))](https://github-production-user-asset-6210df.s3.amazonaws.com/157291263/302062529-276c1fc7-05d4-4041-956d-46da764db05c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240203T210918Z&X-Amz-Expires=300&X-Amz-Signature=b38f52040711a7041ec4686a0ff453ae9b6b77b5c4e16b4d7b57c20b8cb8c822&X-Amz-SignedHeaders=host&actor_id=157291263&key_id=0&repo_id=752400798)
 > 效果图的版本可能不是当前最新兼容的
 
 **支持的clash版本:**
