@@ -6,6 +6,8 @@
 [zip压缩包]([https://www.7-zip.org/](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/Clash.for.Windows-0.20.39-win.7z))
 [exe安装包]([https://www.7-zip.org/](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/Clash.for.Windows.Setup.0.20.39.exe))
 
+[Clash.for.Windows-0.20.39-win.7z](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/Clash.for.Windows-0.20.39-win.7z))
+
 ***
 
 
