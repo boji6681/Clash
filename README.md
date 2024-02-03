@@ -10,7 +10,7 @@
 
 效果图
 
-[![photo](https://github.com/boji6681/Clash-for-Windows_Chinese/assets/77391690/cbc8698c-7e3c-4ff2-b2ed-4bccae1e6251?raw=true)](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/)
+[![photo]([https://github.com/boji6681/Clash-for-Windows_Chinese/assets/77391690/cbc8698c-7e3c-4ff2-b2ed-4bccae1e6251?raw=true)](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/](https://github.com/boji6681/Clash-for-Windows_Chinese/assets/157291263/276c1fc7-05d4-4041-956d-46da764db05c))
 > 效果图的版本可能不是当前最新兼容的
 
 **支持的clash版本:**
