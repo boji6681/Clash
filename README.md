@@ -3,7 +3,7 @@
 
 ***
 
-# Clash for Windows Chinese<img src="https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
+# Clash for Windows Chinese<img src="https://github.com/boji6681/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
 ### Clash 汉化版
 
 **提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序**
@@ -12,12 +12,6 @@
 
 ![image](https://github.com/boji6681/Clash-for-Windows_Chinese/assets/157291263/8b791c71-ae09-4c35-be34-40a2b3bbe038)
 
-
-**支持的clash版本:**
-
-[0.15.3](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFW-V0.15.3_CN-V4)
-~
-[当前的最新兼容](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/latest)
 
 **基本特征&介绍:**
 
@@ -41,7 +35,7 @@
       2, 修改"app.asar"文件中的"main.js"
       3, 修改"app.asar"文件中的"zh-cn.js"
     对Clash for Windows植入的第三方链接:
-      1, https://github.com/Z-Siqi/Clash-for-Windows_Chinese-Attached
+      1, https://github.com/boji6681/Clash-for-Windows_Chinese-Attached
     对app.asar替换的文件:
       1, app.asar\dist\electron\static\*
     汉化的方式
