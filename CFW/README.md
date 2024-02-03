@@ -4,4 +4,4 @@
 
 **以下是一些原版包的存档**
 
-* https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFW
+* https://github.com/boji6681/Clash-for-Windows_Chinese/releases/tag/CFW
