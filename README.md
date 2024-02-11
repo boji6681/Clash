@@ -3,11 +3,22 @@
 
 ***
 ## 下载地址
+Windows
 [Clash.for.Windows-0.20.39-win.7z](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/Clash.for.Windows-0.20.39-win.7z)
 
 
 [Clash.for.Windows.Setup.0.20.39.exe](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/Clash.for.Windows.Setup.0.20.39.exe)
 
+
+Mac
+[ClashX_v1.118.0](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/ClashX_v1.118.0.dmg)
+
+
+[ClashXPro_v1.97.0.4](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/ClashXPro_v1.97.0.4.dmg)
+
+
+Android
+[Clash.for.Android_v2.5.12](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/Clash.for.Android_v2.5.12.apk)
 ***
 
 
