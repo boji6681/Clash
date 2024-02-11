@@ -5,9 +5,9 @@
 
 
 ## Mac
-[ClashX_v1.118.0【推荐】](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/ClashX.for.Mac_v1.118.0.dmg)
+[ClashX.for.Mac_v1.118.0【推荐】](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/ClashX.for.Mac_v1.118.0.dmg)
 <br>
-[ClashXPro_v1.97.0.4【M芯片】](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/ClashXPro.for.Mac_v1.97.0.4.dmg)
+[ClashXPro.for.Mac_v1.97.0.4【M芯片】](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/ClashXPro.for.Mac_v1.97.0.4.dmg)
 
 
 ## Android
