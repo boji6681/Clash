@@ -14,7 +14,7 @@
 [Clash.for.Android_v2.5.12](https://github.com/boji6681/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_CN/Clash.for.Android_v2.5.12.apk)
 
 
-
+***
 # Clash for Windows Chinese<img src="https://github.com/boji6681/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
 ### Clash 汉化版
 
